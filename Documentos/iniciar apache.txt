@@ -1,0 +1,2 @@
+cd c:\server\Apache\bin
+httpd -f C:\server\Apache\conf\httpd.conf

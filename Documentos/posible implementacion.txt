@@ -1,0 +1,6 @@
+	<div class="row justify-content-center">
+					<div class="col-12 col-sm-6 col-md-6">
+						<label for="firm">Agregar firma</label><label class="requerido">(*)</label><input type="image" id="info" class ="info" name="info" src="https://firebasestorage.googleapis.com/v0/b/workcontrol-8f633.appspot.com/o/recursos%2Finfo.png?alt=media&token=ddc74f53-ee13-461c-b9de-f3f7be8d5fa6" alt="info" width="20" height="20">
+						<input type="file" accept="image/jpeg" required="required" class="form-control" placeholder="Firma" name="firma" id="firma">
+					</div>
+				</div>
